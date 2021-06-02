@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @misaelvalentim! I'm 23 years old and I'm loving learning about Web Development, specially front-end.
-- 👀 I’m interested in learning and applying my knoledge on HTML/CSS/JS.
+- 👀 I’m interested in learning and applying my knowledge on HTML/CSS/JS.
 - 🌱 I’m currently learning JavaScript, in addiction to increasing my knowledge on HTML/CSS.
 - 💞️ I’m looking to collaborate in Projects which includes these technologies mentioned above.
 - 📫[![Linkedin Badge](https://img.shields.io/badge/-Misael%20Valentim-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/misael-valentim-8806841b7/)](https://www.linkedin.com/in/misael-valentim-8806841b7/) 
